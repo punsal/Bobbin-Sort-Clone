@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bf1d12268344eccb0882802201edd10, type: 3}
+  m_Name: Level 04
+  m_EditorClassIdentifier: 
+  levelPrefab: {fileID: 4346310895829057049, guid: 1b12b26ebcc4048a685766527f878899, type: 3}
+  containers:
+  - colorsBottomToTop: 00000000010000000200000003000000
+  - colorsBottomToTop: 04000000050000000000000001000000
+  - colorsBottomToTop: 02000000030000000400000005000000
+  - colorsBottomToTop: 01000000000000000500000004000000
+  - colorsBottomToTop: 03000000020000000100000000000000
+  - colorsBottomToTop: 05000000040000000300000002000000
